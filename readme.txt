@@ -13,13 +13,11 @@ README:
 
 
 Bugs/Todo (in no particular order):
- - The first line might glitch because of OAMDMA taking too much time
  - If you hold an button, then release it, it will not go to the other direction you might hold
  - Save highscore somewhere where it won't be erased by a power cycle
  - Sound cuts off when restart
  - Make the code a bit more procedural
  - Unmess the code for restarting
  - Add powerups like 5 point cherries
- - Add a tongue for more precise fetching of objects
  - Improve the In/Outgame menu
 
