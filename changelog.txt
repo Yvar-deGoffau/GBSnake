@@ -1,0 +1,18 @@
+
+
+=== Version 0.1H ===
+
+- Initial release
+
+
+=== Version 0.2A ===
+
+- Fixed tail wraparound bug
+- Replaced timer by countdown+time, slowly increasing game speed
+
+
+=== Version 0.2B ===
+
+- Added 90 degrees egg-in-belly tile...
+- ... this fixed the bug with the tail grafix going weird when digesting those
+- Improved a little the music
