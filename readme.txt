@@ -21,3 +21,5 @@ Bugs/Todo (in no particular order):
  - Add powerups like 5 point cherries
  - Improve the In/Outgame menu
 
+See posts on 
+  http://forums.nesdev.com/viewtopic.php?f=20&t=16787&p=210901
